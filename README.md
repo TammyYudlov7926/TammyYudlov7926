@@ -10,8 +10,8 @@
 <h2>My Skills</h2> 
 
 <h3>👩‍💻 Programming Languages</h3>
-<a><img width="40" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" title="C#"/></a>
-<a><img width="40" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python"/></a>
+<a><img width="40" src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" title="C#"/>
+<img width="40" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python"/></a>
 <a><img width="40" src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java"/></a>
 <a><img width="40" src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" title="C++"/></a>
 <a><img width="40" src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" title="C"/></a>
